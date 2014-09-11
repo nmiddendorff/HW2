@@ -1,0 +1,38 @@
+body { 	color: blue;
+		font-family: Times;
+		font-size: 12pt;
+		margin: 0 auto; 
+		text-align: center;
+	
+	}
+h1{
+			font-size: 36pt;
+			color: green;
+			font-variant: small-caps;
+			font-weight: bold;
+			text-align:center;
+			margin-top: 15px;
+			margin-bottom: 0px; 
+		}
+
+h2 {
+			font-size: 14pt;
+			color: blue;
+			font-weight: normal;
+			text-decoration: underline;
+			font-variant: small-caps;
+			padding-bottom: 0px;
+			margin-bottom: 25px;
+			}
+
+h2 {
+			font-size: 14pt;
+			color: blue;
+			font-weight: normal;
+			text-decoration: underline;
+			font-variant: small-caps;
+			padding-bottom: 0px;
+			margin-top: 30px;
+			margin-bottom: 25px;
+		}	
+
