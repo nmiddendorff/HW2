@@ -40,3 +40,9 @@ h4 {
 			font-variant: small-caps;
 
 		}	
+		
+		.title {
+			font-size: 14pt;
+			color: red;
+			font-weight: normal;
+			}
